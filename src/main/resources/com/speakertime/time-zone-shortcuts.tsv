@@ -1,0 +1,90 @@
+America/New_York	NYC|NY|New York City|East Coast|US East Coast|US Eastern|US Eastern Time|Boston|Miami|Orlando|Tampa|Fort Lauderdale|Jacksonville|Atlanta|Savannah|Charlotte|Raleigh|Philadelphia|Philly|Pittsburgh|Baltimore|Washington DC|Richmond VA|Norfolk VA|Charleston SC|Cleveland|Cincinnati|Columbus OH|Buffalo|Albany NY|Newark NJ|New Jersey|Connecticut|Massachusetts|Rhode Island|Vermont|New Hampshire|Maine|South Carolina|North Carolina|Delaware
+America/Chicago	US Central|US Central Time|Dallas|DFW|Fort Worth|Houston|Austin|San Antonio|New Orleans|NOLA|Minneapolis|Saint Paul MN|Twin Cities|Milwaukee|Madison WI|Kansas City|Saint Louis|St Louis|Oklahoma City|Tulsa|Omaha|Des Moines|Little Rock|Birmingham AL|Memphis|Nashville|Wisconsin|Minnesota|Iowa|Illinois|Missouri|Oklahoma|Louisiana|Arkansas
+America/Denver	US Mountain|US Mountain Time|Colorado|Colorado Springs|Boulder|Salt Lake City|SLC|Utah|Albuquerque|Santa Fe NM|New Mexico|Wyoming|Cheyenne|Montana|Billings|Boise
+America/Los_Angeles	LA|LAX|SF|SFO|San Francisco|West Coast|US West Coast|US Pacific|US Pacific Time|Pacific Time|Seattle|Tacoma|Spokane|San Diego|San Jose CA|Santa Barbara|Sacramento|Oakland|Fresno|California|Las Vegas|Vegas|Reno|Portland OR|Eugene OR
+America/Detroit	Ann Arbor|Grand Rapids
+America/Phoenix	Tucson|Scottsdale|Tempe|Mesa AZ|Flagstaff
+Pacific/Honolulu	Hawaii|Oahu|Maui|Kauai|Hilo|Waikiki
+America/Vancouver	Vancouver BC|Victoria BC|Burnaby|Surrey BC|Richmond BC|Kelowna|Nanaimo|Whistler
+America/Toronto	Ottawa|Montreal|Quebec City|Gatineau|Mississauga|Brampton|Hamilton ON|Kingston ON|Waterloo ON|Kitchener
+America/Edmonton	Calgary|Red Deer|Lethbridge|Fort McMurray
+America/Halifax	Dartmouth NS|Nova Scotia|Cape Breton
+America/St_Johns	St Johns NL|Newfoundland
+America/Regina	Saskatoon|Moose Jaw
+America/Winnipeg	Brandon MB
+America/Mexico_City	CDMX|Ciudad de Mexico|Guadalajara|Puebla City
+America/Sao_Paulo	Rio|Rio de Janeiro|Brasilia|Belo Horizonte|Curitiba|Porto Alegre
+America/Argentina/Buenos_Aires	Buenos Aires City
+America/Santiago	Valparaiso|Santiago Chile
+America/Bogota	Colombia|Medellin|Cali Colombia|Cartagena Colombia
+America/Lima	Peru|Arequipa|Cusco
+America/Guayaquil	Quito|Mainland Ecuador
+America/Costa_Rica	San Jose Costa Rica
+America/Panama	Panama City
+America/Puerto_Rico	San Juan PR|San Juan Puerto Rico
+America/Havana	Cuba
+America/Santo_Domingo	Dominican Republic|Punta Cana
+America/Jamaica	Kingston Jamaica|Montego Bay
+Europe/London	UK|United Kingdom|Great Britain|Britain|England|Scotland|Wales|Northern Ireland|Manchester|Birmingham UK|Liverpool|Bristol|Leeds|Newcastle upon Tyne|Edinburgh|Glasgow|Aberdeen|Cardiff|Swansea|Belfast|Oxford|Cambridge UK|Brighton
+Europe/Dublin	Ireland|Republic of Ireland|Cork|Galway|Limerick
+Europe/Paris	Metropolitan France|Mainland France|Marseille|Lyon|Toulouse|Nice France|Bordeaux|Nantes|Lille
+Europe/Berlin	Germany|Munich|Munchen|Hamburg|Frankfurt|Cologne|Koln|Dusseldorf|Stuttgart|Leipzig|Dresden
+Europe/Madrid	Mainland Spain|Barcelona|Valencia Spain|Seville|Sevilla|Bilbao|Malaga|Balearic Islands|Mallorca|Ibiza
+Atlantic/Canary	Canary Islands|Tenerife|Gran Canaria|Las Palmas
+Europe/Lisbon	Mainland Portugal|Porto|Faro|Coimbra
+Europe/Rome	Italy|Milan|Milano|Naples|Napoli|Florence|Firenze|Venice|Venezia|Turin|Torino|Sicily|Palermo|Sardinia
+Europe/Amsterdam	European Netherlands|Holland|Rotterdam|The Hague|Den Haag|Utrecht|Eindhoven
+Europe/Brussels	Belgium|Bruxelles|Antwerp|Antwerpen|Ghent|Gent|Bruges
+Europe/Zurich	Switzerland|Geneva|Basel|Bern|Lausanne|Lucerne
+Europe/Vienna	Austria|Wien|Salzburg|Graz|Innsbruck
+Europe/Stockholm	Sweden|Gothenburg|Goteborg|Malmo|Uppsala
+Europe/Oslo	Norway|Bergen|Trondheim|Stavanger|Tromso
+Europe/Copenhagen	Mainland Denmark|Aarhus|Odense|Aalborg
+Europe/Helsinki	Finland|Espoo|Tampere|Turku|Oulu
+Atlantic/Reykjavik	Iceland|Akureyri
+Europe/Warsaw	Poland|Krakow|Gdansk|Wroclaw|Poznan|Lodz
+Europe/Prague	Czechia|Czech Republic|Praha|Brno
+Europe/Budapest	Hungary|Debrecen|Szeged
+Europe/Athens	Greece|Thessaloniki|Crete
+Europe/Istanbul	Turkey|Turkiye|Ankara|Izmir|Antalya
+Europe/Bucharest	Romania|Cluj Napoca|Timisoara
+Europe/Kyiv	Kiev
+Asia/Dubai	UAE|United Arab Emirates|Abu Dhabi|Sharjah
+Asia/Riyadh	Saudi Arabia|Jeddah|Mecca|Makkah|Medina|Dammam
+Asia/Jerusalem	Israel|Tel Aviv|Haifa
+Asia/Kolkata	India|Delhi|New Delhi|Mumbai|Bombay|Bangalore|Bengaluru|Chennai|Hyderabad India|Pune|Ahmedabad|Jaipur|Surat|Kochi|Calcutta
+Asia/Karachi	Pakistan|Islamabad|Lahore|Rawalpindi|Faisalabad|Peshawar
+Asia/Dhaka	Bangladesh|Chattogram|Chittagong
+Asia/Kathmandu	Nepal|Pokhara
+Asia/Colombo	Sri Lanka|Kandy
+Asia/Bangkok	Thailand|Chiang Mai|Phuket|Pattaya
+Asia/Ho_Chi_Minh	Vietnam|Hanoi|Saigon|Da Nang
+Asia/Manila	Philippines|Cebu|Davao|Quezon City
+Asia/Kuala_Lumpur	Peninsular Malaysia|KL|Penang|Johor Bahru|Malacca
+Asia/Kuching	East Malaysia|Sabah|Sarawak|Kota Kinabalu
+Asia/Jakarta	Western Indonesia|Java|Bandung|Surabaya|Yogyakarta|Medan
+Asia/Makassar	Central Indonesia|Bali|Denpasar|Lombok
+Asia/Jayapura	Eastern Indonesia|Papua Indonesia
+Asia/Shanghai	Beijing|Peking|Guangzhou|Shenzhen|Hangzhou|Chengdu|Chongqing|Nanjing|Wuhan|Tianjin|China Standard Time
+Asia/Taipei	Taiwan|Kaohsiung|Taichung|Tainan
+Asia/Seoul	South Korea|Busan|Incheon|Daegu|Jeju
+Asia/Tokyo	Japan|Osaka|Kyoto|Yokohama|Nagoya|Sapporo|Fukuoka|Hiroshima|Okinawa
+Africa/Johannesburg	South Africa|Cape Town|Durban|Pretoria|Soweto|Gqeberha
+Africa/Cairo	Egypt|Alexandria Egypt|Giza
+Africa/Casablanca	Morocco|Rabat|Marrakesh|Marrakech|Tangier
+Africa/Lagos	Nigeria|Abuja|Kano|Ibadan
+Africa/Nairobi	Kenya|Mombasa
+Africa/Accra	Ghana|Kumasi
+Africa/Addis_Ababa	Ethiopia
+Africa/Dar_es_Salaam	Tanzania|Dodoma|Zanzibar
+Australia/Sydney	Canberra|ACT|Newcastle NSW|Wollongong
+Australia/Melbourne	Geelong|Ballarat|Bendigo|Victoria Australia
+Australia/Brisbane	Gold Coast|Sunshine Coast|Cairns|Townsville|Toowoomba
+Australia/Perth	Fremantle|Bunbury|Broome
+Australia/Adelaide	South Australia
+Australia/Darwin	Northern Territory|Alice Springs
+Australia/Hobart	Tasmania|Launceston
+Pacific/Auckland	Mainland New Zealand|Wellington|Christchurch|Dunedin|Queenstown NZ|Hamilton NZ|Tauranga
+Pacific/Chatham	Chatham Islands
+Pacific/Fiji	Suva|Nadi
+Pacific/Guam	Hagatna

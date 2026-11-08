@@ -58,8 +58,7 @@ import org.slf4j.LoggerFactory;
 @PluginDescriptor(
     name = "Speaker Time",
     internalName = "speaker-time",
-    description = "Show chat timestamps in the speaker's shared time zone",
-    enabledByDefault = false
+    description = "Show chat timestamps in the speaker's shared time zone"
 )
 public class SpeakerTimePlugin extends Plugin
 {
